@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Freenom", "Freenom\Freenom.csproj", "{2A9EC7E3-6CA2-4DAE-855D-ACB6EF1B263E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample", "Sample\Sample.csproj", "{A3089FED-D1EA-45E8-A11C-FDC28542196D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9EC7E3-6CA2-4DAE-855D-ACB6EF1B263E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9EC7E3-6CA2-4DAE-855D-ACB6EF1B263E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9EC7E3-6CA2-4DAE-855D-ACB6EF1B263E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9EC7E3-6CA2-4DAE-855D-ACB6EF1B263E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3089FED-D1EA-45E8-A11C-FDC28542196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3089FED-D1EA-45E8-A11C-FDC28542196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3089FED-D1EA-45E8-A11C-FDC28542196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3089FED-D1EA-45E8-A11C-FDC28542196D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
